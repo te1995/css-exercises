@@ -1,0 +1,8 @@
+.container .text {
+    text-align: center;
+    background-color: yellow;
+    color: red;
+    font-family: "Times New Roman", serif;
+    font-size: 22px;
+    font-weight: 400;
+}
